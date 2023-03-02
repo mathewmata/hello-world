@@ -1,5 +1,5 @@
 # hello-world
 
-My first repository on Github
+My first repository on GitHub
 
 I love :coffee: :small chops: and :singing:.
